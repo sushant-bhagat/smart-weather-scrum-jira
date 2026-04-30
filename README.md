@@ -22,13 +22,16 @@ This project was managed using the **Scrum** framework.
 The backlog consists of 15 User Stories prioritized for an MVP release in Sprint 1.
 
 ## Screenshots
-*(Insert your Jira screenshots here)*
-- [Epic View]
-- [Product Backlog]
-- [Sprint 1 Board - Completed]
-
+Jira 1.png
+Jira 2.png
+Jira 3.png
+Jira 4.png
+Jira 5.png
 ## Tech Stack (Proposed)
 - **Backend:** Python/Node.js
 - **Database:** PostgreSQL (PostGIS for location data)
 - **Frontend:** React with Responsive Design
 - **Integration:** OpenWeatherMap API, Google Maps API
+## Jira URL
+
+
