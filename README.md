@@ -1,16 +1,35 @@
 smart-weather-scrum-jira/
 ├── README.md
-├── docs/
-│   ├── jira-screenshots/
-│   │   ├── [1-epics-overview.png](https://github.com/sushant-bhagat/smart-weather-scrum-jira/blob/main/Jira%201.png)
-│   │   ├── [2-backlog-view.png](https://github.com/sushant-bhagat/smart-weather-scrum-jira/blob/main/Jira%202.png)
-│   │   ├── [3-sprint-1-board.png](https://github.com/sushant-bhagat/smart-weather-scrum-jira/blob/main/Jira%204.png)
-│   │   ├── [4-release-plan.png](https://github.com/sushant-bhagat/smart-weather-scrum-jira/blob/main/Jira%205.png)
-│   │   
-│   ├── project-plan.md
-│   └── user-stories.md
-├── sprint-demos/
-│   ├── sprint-1-demo.md
-│   └── sprint-2-demo.md
-└── assets/
-    └── project-logo.png
+# Smart Weather - Agile Project Management (Jira)
+
+## Project Overview
+Smart Weather is a weather aggregation and business intelligence platform. It correlates meteorological data with business use cases (e.g., beverage consumption, tourism footfall).
+
+## Agile Methodology
+This project was managed using the **Scrum** framework.
+- **Tool:** Jira Software
+- **Sprints:** 3 Sprints (2-week intervals)
+- **Roles:** Product Owner, Scrum Master, Development Team
+
+## Project Artifacts
+### 1. Epics
+- User Management
+- Data Engine
+- Portal Experience
+- Business Insights
+- External API Service
+
+### 2. Backlog & Release Plan
+The backlog consists of 15 User Stories prioritized for an MVP release in Sprint 1.
+
+## Screenshots
+*(Insert your Jira screenshots here)*
+- [Epic View]
+- [Product Backlog]
+- [Sprint 1 Board - Completed]
+
+## Tech Stack (Proposed)
+- **Backend:** Python/Node.js
+- **Database:** PostgreSQL (PostGIS for location data)
+- **Frontend:** React with Responsive Design
+- **Integration:** OpenWeatherMap API, Google Maps API
