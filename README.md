@@ -1,37 +1,65 @@
-smart-weather-scrum-jira/
-# Smart Weather - Agile Project Management (Jira)
 
-## Project Overview
-Smart Weather is a weather aggregation and business intelligence platform. It correlates meteorological data with business use cases (e.g., beverage consumption, tourism footfall).
+Project Overview
+Smart Weather is a cutting-edge weather aggregation and business intelligence platform. It solves the problem of unpredictable local weather by correlating meteorological data from multiple global providers with actionable business insights for sectors like agriculture, tourism, and healthcare.
 
-## Agile Methodology
-This project was managed using the **Scrum** framework.
-- **Tool:** Jira Software
-- **Sprints:** 3 Sprints (2-week intervals)
-- **Roles:** Product Owner, Scrum Master, Development Team
+Agile Methodology
+This project was implemented using the Scrum framework within Jira.
 
-## Project Artifacts
-### 1. Epics
-- User Management
-- Data Engine
-- Portal Experience
-- Business Insights
-- External API Service
+Project Management Tool: Jira Software
 
-### 2. Backlog & Release Plan
-The backlog consists of 15 User Stories prioritized for an MVP release in Sprint 1.
+Framework: Scrum
 
-## Screenshots
-Jira 1.png
-Jira 2.png
-Jira 3.png
-Jira 4.png
-Jira 5.png
-## Tech Stack (Proposed)
-- **Backend:** Python/Node.js
-- **Database:** PostgreSQL (PostGIS for location data)
-- **Frontend:** React with Responsive Design
-- **Integration:** OpenWeatherMap API, Google Maps API
-## Jira URL
+Iteration Cycle: 3 Sprints (2-week intervals)
 
+Project Documentation
+Detailed project breakdown and user stories can be found here:
+
+Project Description
+
+User Stories & Epics
+
+Key Features
+Data Aggregation: Reconciles data from multiple global weather services.
+
+Smart Analytics: Consumption predictions (Hot vs. Cold beverages), visitor footfall, and seasonal illness likelihood.
+
+Multi-Platform: Responsive web portal and integrated mobile applications.
+
+Severe Weather Alerts: Real-time push notifications for registered users.
+
+Developer API: Open services for third-party client integration.
+
+Jira Implementation & Screenshots
+To view the project progress and management structure, refer to the following links or images:
+
+1. Product Backlog & Epics
+Detailed list of the 5 main Epics and 15 prioritized User Stories.
+
+URL: (https://sushantpb.atlassian.net/jira/software/projects/SW/boards/3/backlog?epics=visible)
+
+2. Sprint Planning & Release Plan
+Tentative release plan across 3 sprints.
+
+Sprint 1 (Current): Foundation, User Auth, and Core Data Integration.
+
+Sprint 2: Forecasts, Responsive Design, and Access Controls.
+
+Sprint 3: Analytics Engine, API Publishing, and Advertisements.
+
+3. Active Scrum Board
+Visualizing the flow of work (To Do, In Progress, Done).
+
+URL: (https://sushantpb.atlassian.net/jira/software/projects/SW/boards/3)
+Tech Stack
+Project Management: Jira
+
+Platform: Linux (Ubuntu/Mint)
+
+DevOps: Jenkins, Ansible, Docker Swarm, Git
+
+Web Server: Nginx
+
+API Architecture: RESTful Services
+
+Created by: Sushant Bhagat
 
