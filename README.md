@@ -1,5 +1,4 @@
 smart-weather-scrum-jira/
-├── README.md
 # Smart Weather - Agile Project Management (Jira)
 
 ## Project Overview
