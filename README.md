@@ -269,7 +269,7 @@ smart-weather/
 
 ## 🔗 Links
 
-- 📋 [Jira Project Board](#) *(add your Jira link here)*
+- 📋 [[Jira Project Board](#)(https://sushantpb.atlassian.net/jira/software/projects/SW/boards/3)]
 - 📖 [API Documentation](#)
 - 🎨 [Figma Designs](#)
 
